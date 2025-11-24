@@ -3,3 +3,6 @@
 
 # macOS
 .DS_Store
+
+# Documentos de desarrollo interno
+DEVELOPMENT_PLAN.md
